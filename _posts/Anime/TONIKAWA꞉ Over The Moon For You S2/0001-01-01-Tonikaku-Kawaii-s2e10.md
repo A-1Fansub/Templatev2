@@ -19,4 +19,4 @@ Mandiri: Noromi
 {% if page.eps %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.epsname %}Unduh{% endif %}
 
 ---
-- 1080p: [Index](https://bit.ly/3NodWCQ){:target="_blank"} &middot; [KrakenFiles](https://bit.ly/3ClDuub){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/295){:target="_blank"}
+- 1080p: [Index](https://bit.ly/3NodWCQ){:target="_blank"} &middot; [KrakenFiles](https://apk.miuiku.com/zrdzkoNS){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/295){:target="_blank"}

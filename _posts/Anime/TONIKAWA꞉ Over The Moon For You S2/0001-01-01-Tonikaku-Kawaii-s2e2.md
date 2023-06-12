@@ -17,4 +17,4 @@ Soloyolo: Noromi
 {% if page.eps %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.epsname %}Unduh{% endif %}
 
 ---
-- 1080p: [Index](https://bit.ly/45Kv1xU){:target="_blank"} &middot; [KrakenFiles](https://krakenfiles.com/view/dZuMbPVct9/file.html){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/282){:target="_blank"}
+- 1080p: [Index](https://bit.ly/45Kv1xU){:target="_blank"} &middot; [KrakenFiles](https://apk.miuiku.com/ywIjj3dp){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/282){:target="_blank"}

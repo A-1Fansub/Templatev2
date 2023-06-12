@@ -3,7 +3,7 @@ layout: post
 tags: anime
 title: TONIKAWA&#58 Over The Moon For You - S2E10 ID Subtitle
 eps: 10
-date: 2023-06-12 03:41:00 +0700
+date: 2023-06-12 03:36:00 +0700
 coverPhoto: https://cdn.lewd.host/3rs6pdyr.jpg
 category: Pokoknya Imut S2
 category-link: Tonikaku-Kawaii-s2

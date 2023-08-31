@@ -5,7 +5,7 @@ epsname: Pokoknya Imut꞉ Seragam
 coverPhoto: https://cdn.lewd.host/RHbN5fYS.jpg
 ---
 
-Sinopsis: Episode OVA dari [TONIKAWA&#58 Over The Moon For You](https://a-1.fansub.id/Tonikaku-Kawaii)
+Sinopsis: Episode OVA dari [TONIKAWA&#58 Over The Moon For You](https://a-1.tabun.my.id/Tonikaku-Kawaii)
 
 Soloyolo: Noromi
 

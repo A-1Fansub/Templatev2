@@ -12,7 +12,7 @@ category-link: Majo-no-Tabitabi-manga
 
 Sinopsis: Melakukan perjalanan tanpa henti, bertemu berbagai macam orang dari berbagai macam negara, serta mengembara demi memenuhi rasa ingin tahu. Inilah kisah pertemuan dan perpisahan penyihir kelabu Elaina.
 
-Tonton anime-nya di sini: [https://a-1.fansub.id/arsip/Majo-no-Tabitabi](https://a-1.fansub.id/arsip/Majo-no-Tabitabi)
+Tonton anime-nya di sini: [https://a-1.tabun.my.id/arsip/Majo-no-Tabitabi](https://a-1.tabun.my.id/arsip/Majo-no-Tabitabi)
 
 Soloyolo: Noromi
 

@@ -1,5 +1,5 @@
 site: A-1 Fansub
-url: https://a-1.fansub.id
+url: https://a-1.tabun.my.id
 title: A-1 Fansub
 description: Bebas Layaknya Awan~
 twitter:
@@ -15,7 +15,7 @@ author:
 permalink: pretty
 timezone: Asia/Jakarta
 
-baseurl: "https://a-1.fansub.id"
+baseurl: "https://a-1.tabun.my.id"
 
 highlighter: none
 
@@ -71,4 +71,4 @@ disqus:
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
     shortname: a-1fansub
 
-url: https://a-1.fansub.id
+url: https://a-1.tabun.my.id

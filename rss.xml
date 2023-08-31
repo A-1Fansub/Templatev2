@@ -11,7 +11,7 @@ layout: null
     <description>{{ site.description | xml_escape }}</description>
     {% endif %}
     <link>{{ post.url | prepend: site.url }}</link>
-    <atom:link href="{{ 'https://a-1.fansub.id/rss.xml' }}" rel="self" type="application/rss+xml" />
+    <atom:link href="{{ 'https://a-1.tabun.my.id/rss.xml' }}" rel="self" type="application/rss+xml" />
     {% assign excerpt_length = site.excerpt_length | default: 50 %}
     {% for post in site.posts limit:20 %}
       <item>
